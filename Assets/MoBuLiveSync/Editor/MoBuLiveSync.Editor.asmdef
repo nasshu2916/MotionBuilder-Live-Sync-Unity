@@ -1,0 +1,18 @@
+{
+    "name": "MoBuLiveSync.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a22d9b43bb6f4f78964828b2f6a5f5c1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

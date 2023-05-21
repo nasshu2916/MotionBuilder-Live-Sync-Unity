@@ -1,0 +1,55 @@
+.info-panel, .character-panel, .prop-panel {
+    background-color: var(--unity-colors-box-background);
+    padding: 10px;
+}
+
+.info-title {
+    font-size: 14px;
+    -unity-font-style: bold;
+    color: cyan;
+}
+
+.info-subtitle {
+    font-size: 13px;
+    color: cornflowerblue;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    font-size: 13px;
+    -unity-font-style: bold;
+    margin-top: 5px;
+}
+
+.subject-name-foldout > .unity-foldout__toggle {
+    -unity-font-style: bold;
+    margin-bottom: 2px;
+    padding-left: 10px;
+}
+
+.subject-name-foldout > .unity-foldout__content {
+    margin-left: 10px;
+}
+
+.subject-list {
+}
+
+.subject-element {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.subject-name {
+    margin-right: 5px;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.subject-copy-button {
+    width: 50px;
+}
+
+.pb-3 {
+    padding-bottom: 3px;
+}
