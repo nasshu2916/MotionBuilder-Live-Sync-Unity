@@ -1,0 +1,14 @@
+{
+  "name": "net.naoyakohda.motion-builder-live-sync",
+  "author": "Naoya Kohda",
+  "version": "0.1.0",
+  "displayName": "MotionBuilder-Live-Sync",
+  "description": "A tool to sync characters and props from MotionBuilder to Unity",
+  "dependencies": {},
+  "keywords": [
+    "unity",
+    "MotionBuilder"
+  ],
+  "unity": "2021.3",
+  "samples": []
+}
