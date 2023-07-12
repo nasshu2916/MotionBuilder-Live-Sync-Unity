@@ -12,7 +12,7 @@ MotionBuilder Prop can synchronize Position and Rotation to Unity Object in real
 Install via Unity Package Manager.
 
 ```
-https://github.com/nasshu2916/MotionBuilder-Live-Sync-Unity.git?path=/Assets/MoBuLiveSync
+https://github.com/nasshu2916/MotionBuilder-Live-Sync-Unity.git?path=/Assets/MoBuLiveSync#master
 ```
 
 ## Home Page

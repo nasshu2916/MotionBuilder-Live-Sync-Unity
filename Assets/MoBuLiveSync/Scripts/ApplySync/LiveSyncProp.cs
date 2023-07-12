@@ -37,7 +37,7 @@ namespace MoBuLiveSync.ApplySync
         {
             var syncObject = syncProp.Object;
             _transform.localPosition = syncObject.Position;
-            _transform.localRotation = syncObject.Rotation;
+            _transform.rotation = syncObject.Rotation;
         }
     }
 }
