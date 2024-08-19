@@ -49,6 +49,8 @@ namespace MoBuLiveSync.ApplySync
             foreach (var (bone, boneData) in syncData.BoneDict)
             {
                 var boneTransform = _animator.GetBoneTransform(bone);
+                if (boneTransform == null)
+                    continue;
                 boneTransform.rotation = boneData.Rotation;
 
                 if (bone == HumanBodyBones.Hips)

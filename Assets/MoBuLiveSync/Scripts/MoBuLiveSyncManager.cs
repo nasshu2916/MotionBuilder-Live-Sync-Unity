@@ -120,7 +120,7 @@ namespace MoBuLiveSync
         /// <param name="subjectName"></param>
         /// <returns></returns>
         [CanBeNull]
-        internal SyncCharacter GetSyncCharacter(string subjectName)
+        public SyncCharacter GetSyncCharacter(string subjectName)
         {
             _characterDict.TryGetValue(subjectName, out var character);
             return character;
@@ -138,7 +138,7 @@ namespace MoBuLiveSync
         /// <param name="subjectName"></param>
         /// <returns></returns>
         [CanBeNull]
-        internal SyncProp GetSyncProp(string subjectName)
+        public SyncProp GetSyncProp(string subjectName)
         {
             _propDict.TryGetValue(subjectName, out var prop);
             return prop;
