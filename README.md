@@ -16,5 +16,5 @@ https://github.com/nasshu2916/MotionBuilder-Live-Sync-Unity.git?path=/Assets/MoB
 ```
 
 ## Home Page
-[English](https://www.naoyakohda.net/mb_sync/en/)  
-[日本語](https://www.naoyakohda.net/mb_sync/ja/)
+[English](https://mbsync.naoyakohda.net/en/)  
+[日本語](https://mbsync.naoyakohda.net/ja/)
